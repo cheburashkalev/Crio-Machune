@@ -1,16 +1,9 @@
 
 *.bin
 *.ini
-Saved/
-Saved/Autosaves/Game/NewMap_Auto0.umap
-Saved/Autosaves/Game/NewMap_Auto1.umap
-Saved/Autosaves/Game/NewMap_Auto2.umap
-Saved/Autosaves/Game/UI/Lesson/Sequence/Spline_BP_camera_Auto7.uasset
-Saved/Autosaves/Game/UI/Lesson/Sequence/Spline_BP_camera_Auto9.uasset
-Saved/Autosaves/Game/UI/Lesson/widgets/lesson1/подменю/Ваши_действия/Ваши_действия_Auto5.uasset
-Saved/Autosaves/Game/UI/Lesson/widgets/Подменю_кнопка_Auto3.uasset
-Saved/Autosaves/Game/UI/Lesson/widgets/Подменю_кнопка_Auto4.uasset
-Saved/Autosaves/Game/UI/Lesson/widgets/Подменю_кнопка_Auto5.uasset
-Saved/AutoScreenshot.png
+Saved
 Saved/Logs/fridge.log
-textursPS/poits.png
+Saved/Config/WorldState/3222581562.json
+Saved/AutoScreenshot.png
+Saved/Autosaves/Game/NewMap_Auto2.umap
+Saved/Autosaves/Game/NewMap_Auto1.umap
